@@ -1,6 +1,8 @@
 # Hello World ! 👋
 
-Je m'appelle Aurélie et je me forme au développement web. Dans le cadre de mon programme en alternance, je travaille pour une entreprise spécialisée dans les applications web pour le secteur de la santé, tout en suivant des cours à l'école O'Clock. Ce programme, débuté le 16 septembre 2024, s'étend sur 20 mois et me permettra d'obtenir une certification professionnelle de "Concepteur Développeur d'Applications" 🎓, équivalente à un niveau Bac+4.
+My name is Aurélie, and I am training in web development. As part of my work-study program, I am employed by a company specializing in web applications for the healthcare sector, while attending courses at O'Clock school. This program, which started on September 16, 2024, spans 20 months and will allow me to earn a professional certification as an "Application Designer-Developer" 🎓, equivalent to a Bachelor's +4 level.
+
+I'm French 🇫🇷
 
 ## 🌐 Frontend
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
