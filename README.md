@@ -33,7 +33,7 @@ I'm French 🇫🇷
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![macOS](https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white)
 
-📧 Me contacter : aurelie.moustardier@outlook.fr
+📧 Contact me : aurelie.moustardier@outlook.fr
 <!--
 **AurelieMous/AurelieMous** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Formation / Études : 🎓
